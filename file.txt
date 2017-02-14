@@ -1,2 +1,3 @@
 New line added
 Another line added
+line added from clone file
